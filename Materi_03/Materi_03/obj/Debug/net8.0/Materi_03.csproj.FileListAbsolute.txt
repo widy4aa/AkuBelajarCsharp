@@ -1,0 +1,14 @@
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\bin\Debug\net8.0\Materi_03.exe
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\bin\Debug\net8.0\Materi_03.deps.json
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\bin\Debug\net8.0\Materi_03.runtimeconfig.json
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\bin\Debug\net8.0\Materi_03.dll
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\bin\Debug\net8.0\Materi_03.pdb
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\Materi_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\Materi_03.AssemblyInfoInputs.cache
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\Materi_03.AssemblyInfo.cs
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\Materi_03.csproj.CoreCompileInputs.cache
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\Materi_03.dll
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\refint\Materi_03.dll
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\Materi_03.pdb
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\Materi_03.genruntimeconfig.cache
+C:\Users\dio34\OneDrive\Desktop\PBO\Materi_03\Materi_03\obj\Debug\net8.0\ref\Materi_03.dll

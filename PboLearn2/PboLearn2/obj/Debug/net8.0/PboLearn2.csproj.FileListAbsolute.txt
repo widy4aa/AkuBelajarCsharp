@@ -1,0 +1,14 @@
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\bin\Debug\net8.0\PboLearn2.exe
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\bin\Debug\net8.0\PboLearn2.deps.json
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\bin\Debug\net8.0\PboLearn2.runtimeconfig.json
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\bin\Debug\net8.0\PboLearn2.dll
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\bin\Debug\net8.0\PboLearn2.pdb
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\PboLearn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\PboLearn2.AssemblyInfoInputs.cache
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\PboLearn2.AssemblyInfo.cs
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\PboLearn2.csproj.CoreCompileInputs.cache
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\PboLearn2.dll
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\refint\PboLearn2.dll
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\PboLearn2.pdb
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\PboLearn2.genruntimeconfig.cache
+C:\Users\dio34\OneDrive\Desktop\PBO\PboLearn2\PboLearn2\obj\Debug\net8.0\ref\PboLearn2.dll
