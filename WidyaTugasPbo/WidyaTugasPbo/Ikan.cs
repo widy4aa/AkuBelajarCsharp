@@ -33,6 +33,8 @@ namespace WidyaTugasPbo
         }
         public void info()  
         {
+            Console.WriteLine($"\nSubclass Ikan Air Tawar ---");
+            base.info();
             Console.WriteLine($"HidupDiSungai: " + HidupDiSungai);
         }
     }
@@ -47,6 +49,7 @@ namespace WidyaTugasPbo
         }
         public void info()
         {
+            Console.WriteLine($"Subclass Ikan Laut ---");
             base.info();
             Console.WriteLine($"HidupDiLaut: " + HidupDiLaut);
         }

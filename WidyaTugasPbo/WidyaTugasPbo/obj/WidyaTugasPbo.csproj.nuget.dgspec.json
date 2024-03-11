@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dio34\\OneDrive\\Desktop\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj": {}
+    "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dio34\\OneDrive\\Desktop\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj": {
+    "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dio34\\OneDrive\\Desktop\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj",
+        "projectUniqueName": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj",
         "projectName": "WidyaTugasPbo",
-        "projectPath": "C:\\Users\\dio34\\OneDrive\\Desktop\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj",
+        "projectPath": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj",
         "packagesPath": "C:\\Users\\dio34\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dio34\\OneDrive\\Desktop\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\obj\\",
+        "outputPath": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dio34\\AppData\\Roaming\\NuGet\\NuGet.Config",

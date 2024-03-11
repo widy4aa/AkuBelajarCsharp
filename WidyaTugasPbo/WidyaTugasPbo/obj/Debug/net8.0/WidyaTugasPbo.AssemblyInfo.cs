@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WidyaTugasPbo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3caf7f6728291f8c5760b04baed6bf677630295f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WidyaTugasPbo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WidyaTugasPbo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
