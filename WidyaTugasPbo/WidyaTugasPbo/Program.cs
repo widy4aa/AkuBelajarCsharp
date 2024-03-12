@@ -1,13 +1,16 @@
-﻿namespace WidyaTugasPbo
+﻿using WidyaTugasPbo.Tugas02;
+using WidyaTugasPbo.Tugas03;
+
+namespace WidyaTugasPbo
 {
     class Programs
     {
         public static void Main(string[] args)
         {
             Console.WriteLine("SuperClass Car ---------------------------");
-            Sedan skyline = new Sedan("Toyota", "Dyo", "Sedan", 2, 65, 4,true,true);
+            MobilSedan skyline = new MobilSedan("Toyota", "Dyo", "Sedan", 2, 65, 4,true,true);
             skyline.info();
-            Truck Mitsubishi = new Truck("Mitsubishi", "Dyo", "Truck", 2, 65, 4,30);
+            MobilTruck Mitsubishi = new MobilTruck("Mitsubishi", "Dyo", "Truck", 2, 65, 4,30);
             Mitsubishi.info();
 
             Console.WriteLine("\nSuperclass Ikan --------------------------");
@@ -28,6 +31,13 @@
             VirtualAcount Va1 = new VirtualAcount("VA21273974", 2324147, "BRI", "Widya Fitriadi Nugraha");
             Va1.info();
 
+            Console.WriteLine("\nSuperclass Otomobil --------------------------");
+            sedan lancer = new sedan(true, "Dyo", "lancer", 4);
+            lancer.info();
+            truk Go = new truk(true, "Dyo", "Go", 6);
+            Go.info();
+            motor cb = new motor(false, "Dyo", "Honda", 2);
+            cb.info();
         }
     }
 }

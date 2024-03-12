@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "D:\\PBO\\WidyaTugasPbo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\tugas03\\diagram tugas 2.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\tugas03\\diagram tugas 2.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\tugas02\\diagram tugas 1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\tugas02\\diagram tugas 1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\tugas02\\ikan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\tugas02\\ikan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\tugas02\\pioncatur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\tugas02\\pioncatur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\tugas03\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\tugas03\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\tugas02\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\tugas02\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\widyatugaspbo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\widyatugaspbo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\pioncatur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\pioncatur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\tugas02\\rekeningbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\tugas02\\rekeningbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\rekeningbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\rekeningbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\ikan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\ikan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|d:\\pbo\\widyatugaspbo\\widyatugaspbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C096C9-9B3B-4FCA-86B6-CC2D9CC10EF0}|WidyaTugasPbo\\WidyaTugasPbo.csproj|solutionrelative:widyatugaspbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,103 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OtoMobil.cs",
-              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\OtoMobil.cs",
-              "RelativeDocumentMoniker": "WidyaTugasPbo\\OtoMobil.cs",
-              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\OtoMobil.cs",
-              "RelativeToolTip": "WidyaTugasPbo\\OtoMobil.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T09:37:50.618Z"
+              "Title": "Diagram Tugas 1.cd",
+              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\Diagram Tugas 1.cd",
+              "RelativeDocumentMoniker": "WidyaTugasPbo\\Tugas02\\Diagram Tugas 1.cd",
+              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\Diagram Tugas 1.cd",
+              "RelativeToolTip": "WidyaTugasPbo\\Tugas02\\Diagram Tugas 1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-12T02:56:23.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Diagram Tugas 2.cd",
+              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas03\\Diagram Tugas 2.cd",
+              "RelativeDocumentMoniker": "WidyaTugasPbo\\Tugas03\\Diagram Tugas 2.cd",
+              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas03\\Diagram Tugas 2.cd",
+              "RelativeToolTip": "WidyaTugasPbo\\Tugas03\\Diagram Tugas 2.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-12T02:55:32.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "otomobil.cs",
+              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas03\\otomobil.cs",
+              "RelativeDocumentMoniker": "WidyaTugasPbo\\Tugas03\\otomobil.cs",
+              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas03\\otomobil.cs",
+              "RelativeToolTip": "WidyaTugasPbo\\Tugas03\\otomobil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T00:38:07.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WidyaTugasPbo.csproj",
               "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj",
               "RelativeDocumentMoniker": "WidyaTugasPbo\\WidyaTugasPbo.csproj",
               "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\WidyaTugasPbo.csproj",
               "RelativeToolTip": "WidyaTugasPbo\\WidyaTugasPbo.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-11T09:19:13.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "WidyaTugasPbo\\ClassDiagram1.cd",
-              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\ClassDiagram1.cd",
-              "RelativeToolTip": "WidyaTugasPbo\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-03-11T09:22:40.011Z"
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\Car.cs",
+              "RelativeDocumentMoniker": "WidyaTugasPbo\\Tugas02\\Car.cs",
+              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\Car.cs",
+              "RelativeToolTip": "WidyaTugasPbo\\Tugas02\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:09:11.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Car.cs",
-              "RelativeDocumentMoniker": "WidyaTugasPbo\\Car.cs",
-              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Car.cs",
-              "RelativeToolTip": "WidyaTugasPbo\\Car.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T09:09:11.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "RekeningBank.cs",
-              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\RekeningBank.cs",
-              "RelativeDocumentMoniker": "WidyaTugasPbo\\RekeningBank.cs",
-              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\RekeningBank.cs",
-              "RelativeToolTip": "WidyaTugasPbo\\RekeningBank.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAgwDsAAAAgAAAA",
+              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\RekeningBank.cs",
+              "RelativeDocumentMoniker": "WidyaTugasPbo\\Tugas02\\RekeningBank.cs",
+              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\RekeningBank.cs",
+              "RelativeToolTip": "WidyaTugasPbo\\Tugas02\\RekeningBank.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:09:48.807Z"
+              "WhenOpened": "2024-03-11T08:09:48.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PionCatur.cs",
-              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\PionCatur.cs",
-              "RelativeDocumentMoniker": "WidyaTugasPbo\\PionCatur.cs",
-              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\PionCatur.cs",
-              "RelativeToolTip": "WidyaTugasPbo\\PionCatur.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDEAAAAiAAAA",
+              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\PionCatur.cs",
+              "RelativeDocumentMoniker": "WidyaTugasPbo\\Tugas02\\PionCatur.cs",
+              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\PionCatur.cs",
+              "RelativeToolTip": "WidyaTugasPbo\\Tugas02\\PionCatur.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:56:15.794Z"
+              "WhenOpened": "2024-03-11T06:56:15.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Program.cs",
               "RelativeDocumentMoniker": "WidyaTugasPbo\\Program.cs",
               "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Program.cs",
               "RelativeToolTip": "WidyaTugasPbo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwCoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T06:31:25.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Ikan.cs",
-              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Ikan.cs",
-              "RelativeDocumentMoniker": "WidyaTugasPbo\\Ikan.cs",
-              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Ikan.cs",
-              "RelativeToolTip": "WidyaTugasPbo\\Ikan.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAACkAAAAAAAAA",
+              "DocumentMoniker": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\Ikan.cs",
+              "RelativeDocumentMoniker": "WidyaTugasPbo\\Tugas02\\Ikan.cs",
+              "ToolTip": "D:\\PBO\\WidyaTugasPbo\\WidyaTugasPbo\\Tugas02\\Ikan.cs",
+              "RelativeToolTip": "WidyaTugasPbo\\Tugas02\\Ikan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwBkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T19:42:38.337Z"
+              "WhenOpened": "2024-03-10T19:42:38.337Z",
+              "EditorCaption": ""
             }
           ]
         }

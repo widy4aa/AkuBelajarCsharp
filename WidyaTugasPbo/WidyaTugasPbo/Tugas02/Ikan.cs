@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WidyaTugasPbo
+namespace WidyaTugasPbo.Tugas02
 {
     internal class ikan
     {
         public string nama, jenis, warna;
-        public ikan(string nama,string jenis,string warna)
+        public ikan(string nama, string jenis, string warna)
         {
             this.nama = nama;
             this.jenis = jenis;
@@ -27,11 +27,11 @@ namespace WidyaTugasPbo
     {
         public bool HidupDiSungai;
         public IkanAirTawar(bool hidupDiSungai, string nama, string jenis, string warna)
-           : base(nama,jenis,warna)
+           : base(nama, jenis, warna)
         {
             HidupDiSungai = hidupDiSungai;
         }
-        public void info()  
+        public void info()
         {
             Console.WriteLine($"\nSubclass Ikan Air Tawar ---");
             base.info();
@@ -45,7 +45,7 @@ namespace WidyaTugasPbo
         public IkanAirAsin(bool hidupDiLaut, string nama, string jenis, string warna)
            : base(nama, jenis, warna)
         {
-            HidupDiLaut = hidupDiLaut ;
+            HidupDiLaut = hidupDiLaut;
         }
         public void info()
         {

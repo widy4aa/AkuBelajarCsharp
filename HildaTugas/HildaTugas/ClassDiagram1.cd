@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="HildaTugas.car">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAkA=</HashCode>
+      <FileName>car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.sedan">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.truk">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.ikan">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAIQAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ikan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.IkanBudidaya">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ikan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.IkanLiar">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ikan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.PionCatur">
+    <Position X="6" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAIAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PionCatur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.PionBudak">
+    <Position X="7.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PionCatur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.pionPetinggi">
+    <Position X="4.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PionCatur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.RekeningBank">
+    <Position X="6.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAACAAAAAAAAAAAACAAAAAAAEA=</HashCode>
+      <FileName>RekeningBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.nasional_bank">
+    <Position X="9.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>RekeningBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.internasional_bank">
+    <Position X="4" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RekeningBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

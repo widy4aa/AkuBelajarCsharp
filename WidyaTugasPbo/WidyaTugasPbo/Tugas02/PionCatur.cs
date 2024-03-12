@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WidyaTugasPbo
+namespace WidyaTugasPbo.Tugas02
 {
     internal class PionCatur
     {
-        string Warna,Nama;
-        public PionCatur(string Warna,string Nama) {
+        string Warna, Nama;
+        public PionCatur(string Warna, string Nama)
+        {
             this.Warna = Warna;
             this.Nama = Nama;
         }
@@ -17,7 +18,7 @@ namespace WidyaTugasPbo
         public void info()
         {
             Console.WriteLine($"PionCatur Dengan Nama : " + Nama);
-            Console.WriteLine($"PionCatur Dengan Warna : "+Warna);
+            Console.WriteLine($"PionCatur Dengan Warna : " + Warna);
         }
     }
 
@@ -25,9 +26,9 @@ namespace WidyaTugasPbo
     {
         public bool KondisiCheck;
         public King(bool KondisiCheck, string Warna, string Nama)
-           : base(Warna,Nama)
+           : base(Warna, Nama)
         {
-             this.KondisiCheck = KondisiCheck;
+            this.KondisiCheck = KondisiCheck;
         }
         public void info()
         {
@@ -40,7 +41,7 @@ namespace WidyaTugasPbo
     class Pawn : PionCatur
     {
         public string PromoteTo;
-        public Pawn(String PromoteTo, string Warna, string Nama)
+        public Pawn(string PromoteTo, string Warna, string Nama)
            : base(Warna, Nama)
         {
             this.PromoteTo = PromoteTo;

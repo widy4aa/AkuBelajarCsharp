@@ -4,19 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WidyaTugasPbo
+namespace WidyaTugasPbo.Tugas02
 {
     internal class RekeningBank
     {
         public int id_rekening;
-        public string name,pemilik;
+        public string name, pemilik;
 
         public RekeningBank(int id_rekening, string name, string pemilik)
         {
             this.id_rekening = id_rekening;
             this.name = name;
             this.pemilik = pemilik;
-        }   
+        }
         public void info()
         {
             Console.WriteLine($"id rekening nya adalah : " + id_rekening);
@@ -25,13 +25,13 @@ namespace WidyaTugasPbo
         }
     }
 
-    class RekeningFisik : RekeningBank 
+    class RekeningFisik : RekeningBank
     {
         public string IdRekeningCard;
         public int ExpCard;
 
-        public RekeningFisik(string idRekeningCard, int expCard, int id_rekening, string name, string pemilik) 
-            : base(id_rekening,name,pemilik)
+        public RekeningFisik(string idRekeningCard, int expCard, int id_rekening, string name, string pemilik)
+            : base(id_rekening, name, pemilik)
         {
             IdRekeningCard = idRekeningCard;
             ExpCard = expCard;
@@ -50,8 +50,8 @@ namespace WidyaTugasPbo
     {
         public string IdVa;
 
-        public VirtualAcount(string idVa,int id_rekening, string name, string pemilik) : base(id_rekening,name, pemilik)
-        {   
+        public VirtualAcount(string idVa, int id_rekening, string name, string pemilik) : base(id_rekening, name, pemilik)
+        {
             IdVa = idVa;
         }
 
@@ -62,5 +62,5 @@ namespace WidyaTugasPbo
             Console.WriteLine($"Id Virtual Account: " + IdVa);
         }
 
-     }
+    }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WidyaTugasPbo
+namespace WidyaTugasPbo.Tugas02
 {
     //Superclass Car
     internal class Car
@@ -14,12 +14,12 @@ namespace WidyaTugasPbo
 
         public Car(string merek, string namaPemilik, string jenis, int jumlahPintu, int kapasitasBensin, int jumlahRoda)
         {
-            this.Merek = merek;
-            this.NamaPemilik = namaPemilik;
-            this.Jenis = jenis;
-            this.JumlahPintu = jumlahPintu;
-            this.KapasitasBensin = kapasitasBensin;
-            this.JumlahRoda = jumlahRoda;
+            Merek = merek;
+            NamaPemilik = namaPemilik;
+            Jenis = jenis;
+            JumlahPintu = jumlahPintu;
+            KapasitasBensin = kapasitasBensin;
+            JumlahRoda = jumlahRoda;
         }
         public void info()
         {
@@ -28,11 +28,11 @@ namespace WidyaTugasPbo
         }
     }
     //SubClass
-    class Sedan : Car
+    class MobilSedan : Car
     {
-        public Boolean NosInclude, TurboInclude;
+        public bool NosInclude, TurboInclude;
 
-        public Sedan(string merek, string namaPemilik, string jenis, int jumlahPintu, int kapasitasBensin, int jumlahRoda, bool nosInclude, bool turboInclude)
+        public MobilSedan(string merek, string namaPemilik, string jenis, int jumlahPintu, int kapasitasBensin, int jumlahRoda, bool nosInclude, bool turboInclude)
             : base(merek, namaPemilik, jenis, jumlahPintu, kapasitasBensin, jumlahRoda)
         {
             NosInclude = nosInclude;
@@ -43,16 +43,16 @@ namespace WidyaTugasPbo
         {
             Console.WriteLine($"Subclass Mobil sedan ---");
             base.info();
-            Console.WriteLine($"apakah ada nos nya :"+NosInclude);
+            Console.WriteLine($"apakah ada nos nya :" + NosInclude);
             Console.WriteLine($"apakah memiliki Tubo didalamnya :" + TurboInclude);
         }
     }
 
-    class Truck : Car
+    class MobilTruck : Car
     {
         public int UkuranBag;
 
-        public Truck (string merek, string namaPemilik, string jenis, int jumlahPintu, int kapasitasBensin, int jumlahRoda, int ukuranBag) 
+        public MobilTruck(string merek, string namaPemilik, string jenis, int jumlahPintu, int kapasitasBensin, int jumlahRoda, int ukuranBag)
             : base(merek, namaPemilik, jenis, jumlahPintu, kapasitasBensin, jumlahRoda)
         {
             UkuranBag = ukuranBag;
@@ -62,7 +62,7 @@ namespace WidyaTugasPbo
         {
             Console.WriteLine($"\nSubclass Mobil Truck ---");
             base.info();
-            Console.WriteLine($"Ukuran Bag nya : "+UkuranBag+"ton");
+            Console.WriteLine($"Ukuran Bag nya : " + UkuranBag + "ton");
         }
     }
 }

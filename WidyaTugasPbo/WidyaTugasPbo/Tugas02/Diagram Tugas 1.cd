@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WidyaTugasPbo.Tugas02.Car">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAABAAAQAAQAAAAAAQABQ=</HashCode>
+      <FileName>Tugas02\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.ikan">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAIAAAAAAAAEAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\Ikan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.Pawn">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAgAAAAA=</HashCode>
+      <FileName>Tugas02\PionCatur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.PionCatur">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAIAA=</HashCode>
+      <FileName>Tugas02\PionCatur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.King">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\PionCatur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.IkanAirAsin">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\Ikan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.IkanAirTawar">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\Ikan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.RekeningFisik">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAQAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\RekeningBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.RekeningBank">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAABAAAAAAAAEAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\RekeningBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.VirtualAcount">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\RekeningBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.MobilTruck">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WidyaTugasPbo.Tugas02.MobilSedan">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tugas02\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

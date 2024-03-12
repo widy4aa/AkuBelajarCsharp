@@ -1,0 +1,15 @@
+D:\PBO\HildaTugas\HildaTugas\bin\Debug\net8.0\HildaTugas.exe
+D:\PBO\HildaTugas\HildaTugas\bin\Debug\net8.0\HildaTugas.deps.json
+D:\PBO\HildaTugas\HildaTugas\bin\Debug\net8.0\HildaTugas.runtimeconfig.json
+D:\PBO\HildaTugas\HildaTugas\bin\Debug\net8.0\HildaTugas.dll
+D:\PBO\HildaTugas\HildaTugas\bin\Debug\net8.0\HildaTugas.pdb
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\HildaTugas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\HildaTugas.AssemblyInfoInputs.cache
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\HildaTugas.AssemblyInfo.cs
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\HildaTugas.csproj.CoreCompileInputs.cache
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\HildaTugas.sourcelink.json
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\HildaTugas.dll
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\refint\HildaTugas.dll
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\HildaTugas.pdb
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\HildaTugas.genruntimeconfig.cache
+D:\PBO\HildaTugas\HildaTugas\obj\Debug\net8.0\ref\HildaTugas.dll
