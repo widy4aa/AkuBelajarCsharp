@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\perkodingan\\PBO\\TugasMandiriPBO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17913E2D-3C7F-49E2-B7B1-156974A8BA01}|TugasMandiriPBO\\TugasMandiriPBO.csproj|d:\\perkodingan\\pbo\\tugasmandiripbo\\tugasmandiripbo\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17913E2D-3C7F-49E2-B7B1-156974A8BA01}|TugasMandiriPBO\\TugasMandiriPBO.csproj|solutionrelative:tugasmandiripbo\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17913E2D-3C7F-49E2-B7B1-156974A8BA01}|TugasMandiriPBO\\TugasMandiriPBO.csproj|d:\\perkodingan\\pbo\\tugasmandiripbo\\tugasmandiripbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17913E2D-3C7F-49E2-B7B1-156974A8BA01}|TugasMandiriPBO\\TugasMandiriPBO.csproj|solutionrelative:tugasmandiripbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\perkodingan\\PBO\\TugasMandiriPBO\\TugasMandiriPBO\\Laptop.cs",
+              "RelativeDocumentMoniker": "TugasMandiriPBO\\Laptop.cs",
+              "ToolTip": "D:\\perkodingan\\PBO\\TugasMandiriPBO\\TugasMandiriPBO\\Laptop.cs*",
+              "RelativeToolTip": "TugasMandiriPBO\\Laptop.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:18:32.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\perkodingan\\PBO\\TugasMandiriPBO\\TugasMandiriPBO\\Program.cs",
+              "RelativeDocumentMoniker": "TugasMandiriPBO\\Program.cs",
+              "ToolTip": "D:\\perkodingan\\PBO\\TugasMandiriPBO\\TugasMandiriPBO\\Program.cs",
+              "RelativeToolTip": "TugasMandiriPBO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:17:06.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

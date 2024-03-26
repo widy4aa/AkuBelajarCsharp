@@ -8,8 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Tugas01\" />
-    <Folder Include="Tugas02\NewFolder\" />
+    <Compile Remove="Tugas02\NewFolder\**" />
+    <EmbeddedResource Remove="Tugas02\NewFolder\**" />
+    <None Remove="Tugas02\NewFolder\**" />
   </ItemGroup>
 
 </Project>

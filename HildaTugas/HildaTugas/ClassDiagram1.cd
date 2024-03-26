@@ -1,23 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
   <Class Name="HildaTugas.car">
-    <Position X="7" Y="0.5" Width="1.5" />
+    <Position X="7.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAkA=</HashCode>
-      <FileName>car.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="HildaTugas.sedan">
-    <Position X="9.75" Y="3.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
-      <FileName>car.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="HildaTugas.truk">
-    <Position X="4.5" Y="3.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAAAAA=</HashCode>
       <FileName>car.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -82,6 +68,20 @@
     <TypeIdentifier>
       <HashCode>AAAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>RekeningBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.mobiltruk">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HildaTugas.mobilsedan">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>car.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\PBO\\HildaTugas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|d:\\pbo\\hildatugas\\hildatugas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|solutionrelative:hildatugas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|d:\\pbo\\hildatugas\\hildatugas\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|solutionrelative:hildatugas\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|d:\\pbo\\hildatugas\\hildatugas\\classdiagram2.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|solutionrelative:hildatugas\\classdiagram2.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|d:\\pbo\\hildatugas\\hildatugas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|solutionrelative:hildatugas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35E78344-3067-49F7-9B04-3A6AC279FD01}|HildaTugas\\HildaTugas.csproj|d:\\pbo\\hildatugas\\hildatugas\\otomobil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +42,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\PBO\\HildaTugas\\HildaTugas\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "HildaTugas\\ClassDiagram1.cd",
+              "ToolTip": "D:\\PBO\\HildaTugas\\HildaTugas\\ClassDiagram1.cd",
+              "RelativeToolTip": "HildaTugas\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-12T04:35:42.661Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -54,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "otomobil.cs",
               "DocumentMoniker": "D:\\PBO\\HildaTugas\\HildaTugas\\otomobil.cs",
               "RelativeDocumentMoniker": "HildaTugas\\otomobil.cs",
@@ -67,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RekeningBank.cs",
               "DocumentMoniker": "D:\\PBO\\HildaTugas\\HildaTugas\\RekeningBank.cs",
               "RelativeDocumentMoniker": "HildaTugas\\RekeningBank.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PionCatur.cs",
               "DocumentMoniker": "D:\\PBO\\HildaTugas\\HildaTugas\\PionCatur.cs",
               "RelativeDocumentMoniker": "HildaTugas\\PionCatur.cs",
@@ -93,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ikan.cs",
               "DocumentMoniker": "D:\\PBO\\HildaTugas\\HildaTugas\\ikan.cs",
               "RelativeDocumentMoniker": "HildaTugas\\ikan.cs",
@@ -106,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "car.cs",
               "DocumentMoniker": "D:\\PBO\\HildaTugas\\HildaTugas\\car.cs",
               "RelativeDocumentMoniker": "HildaTugas\\car.cs",
@@ -119,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PBO\\HildaTugas\\HildaTugas\\Program.cs",
               "RelativeDocumentMoniker": "HildaTugas\\Program.cs",

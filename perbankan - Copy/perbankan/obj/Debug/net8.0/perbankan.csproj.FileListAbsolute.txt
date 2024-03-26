@@ -1,0 +1,15 @@
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\perbankan.GeneratedMSBuildEditorConfig.editorconfig
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\perbankan.AssemblyInfoInputs.cache
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\perbankan.AssemblyInfo.cs
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\perbankan.csproj.CoreCompileInputs.cache
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\perbankan.sourcelink.json
+D:\perkodingan\PBO\perbankan\perbankan\bin\Debug\net8.0\perbankan.exe
+D:\perkodingan\PBO\perbankan\perbankan\bin\Debug\net8.0\perbankan.deps.json
+D:\perkodingan\PBO\perbankan\perbankan\bin\Debug\net8.0\perbankan.runtimeconfig.json
+D:\perkodingan\PBO\perbankan\perbankan\bin\Debug\net8.0\perbankan.dll
+D:\perkodingan\PBO\perbankan\perbankan\bin\Debug\net8.0\perbankan.pdb
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\perbankan.dll
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\refint\perbankan.dll
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\perbankan.pdb
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\perbankan.genruntimeconfig.cache
+D:\perkodingan\PBO\perbankan\perbankan\obj\Debug\net8.0\ref\perbankan.dll

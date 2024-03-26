@@ -1,0 +1,15 @@
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\PboOveriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\PboOveriding.AssemblyInfoInputs.cache
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\PboOveriding.AssemblyInfo.cs
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\PboOveriding.csproj.CoreCompileInputs.cache
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\PboOveriding.sourcelink.json
+D:\perkodingan\PBO\PboOveriding\PboOveriding\bin\Debug\net8.0\PboOveriding.exe
+D:\perkodingan\PBO\PboOveriding\PboOveriding\bin\Debug\net8.0\PboOveriding.deps.json
+D:\perkodingan\PBO\PboOveriding\PboOveriding\bin\Debug\net8.0\PboOveriding.runtimeconfig.json
+D:\perkodingan\PBO\PboOveriding\PboOveriding\bin\Debug\net8.0\PboOveriding.dll
+D:\perkodingan\PBO\PboOveriding\PboOveriding\bin\Debug\net8.0\PboOveriding.pdb
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\PboOveriding.dll
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\refint\PboOveriding.dll
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\PboOveriding.pdb
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\PboOveriding.genruntimeconfig.cache
+D:\perkodingan\PBO\PboOveriding\PboOveriding\obj\Debug\net8.0\ref\PboOveriding.dll

@@ -1,0 +1,15 @@
+D:\perkodingan\PBO\OnlineShop\OnlineShop\bin\Debug\net8.0\OnlineShop.exe
+D:\perkodingan\PBO\OnlineShop\OnlineShop\bin\Debug\net8.0\OnlineShop.deps.json
+D:\perkodingan\PBO\OnlineShop\OnlineShop\bin\Debug\net8.0\OnlineShop.runtimeconfig.json
+D:\perkodingan\PBO\OnlineShop\OnlineShop\bin\Debug\net8.0\OnlineShop.dll
+D:\perkodingan\PBO\OnlineShop\OnlineShop\bin\Debug\net8.0\OnlineShop.pdb
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\OnlineShop.AssemblyInfoInputs.cache
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\OnlineShop.AssemblyInfo.cs
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\OnlineShop.csproj.CoreCompileInputs.cache
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\OnlineShop.sourcelink.json
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\OnlineShop.dll
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\refint\OnlineShop.dll
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\OnlineShop.pdb
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\OnlineShop.genruntimeconfig.cache
+D:\perkodingan\PBO\OnlineShop\OnlineShop\obj\Debug\net8.0\ref\OnlineShop.dll

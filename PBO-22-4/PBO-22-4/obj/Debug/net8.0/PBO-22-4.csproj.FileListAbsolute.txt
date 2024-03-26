@@ -1,0 +1,15 @@
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\PBO-22-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\PBO-22-4.AssemblyInfoInputs.cache
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\PBO-22-4.AssemblyInfo.cs
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\PBO-22-4.csproj.CoreCompileInputs.cache
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\PBO-22-4.sourcelink.json
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\bin\Debug\net8.0\PBO-22-4.exe
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\bin\Debug\net8.0\PBO-22-4.deps.json
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\bin\Debug\net8.0\PBO-22-4.runtimeconfig.json
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\bin\Debug\net8.0\PBO-22-4.dll
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\bin\Debug\net8.0\PBO-22-4.pdb
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\PBO-22-4.dll
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\refint\PBO-22-4.dll
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\PBO-22-4.pdb
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\PBO-22-4.genruntimeconfig.cache
+D:\perkodingan\PBO\PBO-22-4\PBO-22-4\obj\Debug\net8.0\ref\PBO-22-4.dll

@@ -7,7 +7,7 @@ namespace WidyaTugasPbo
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("SuperClass Car ---------------------------");
+         /*   Console.WriteLine("SuperClass Car ---------------------------");
             MobilSedan skyline = new MobilSedan("Toyota", "Dyo", "Sedan", 2, 65, 4,true,true);
             skyline.info();
             MobilTruck Mitsubishi = new MobilTruck("Mitsubishi", "Dyo", "Truck", 2, 65, 4,30);
@@ -30,7 +30,7 @@ namespace WidyaTugasPbo
             Rekening1.info();
             VirtualAcount Va1 = new VirtualAcount("VA21273974", 2324147, "BRI", "Widya Fitriadi Nugraha");
             Va1.info();
-
+         */
             Console.WriteLine("\nSuperclass Otomobil --------------------------");
             sedan lancer = new sedan(true, "Dyo", "lancer", 4);
             lancer.info();
